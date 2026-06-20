@@ -487,5 +487,5 @@ To activate the assistant, simply say: **"Computer"**
 
 ---
 <div align="center">
-Made with ❤️ by Mohamed Abdelraouf
+Made with ❤️ by Medipally Sriram
 </div> 
